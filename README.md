@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nabil-k72j
+- 👋 Hi, I’m @nabil Malki
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently learning Web Development
