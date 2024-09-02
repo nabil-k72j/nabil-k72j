@@ -27,7 +27,7 @@ Check out my repositories for more details on the projects I'm working on.
 ### 🌐 Connect with Me
 
 - **Website:** [nabilmalki.com](https://nabilmalki.com)
-- **LinkedIn:** [linkedIn](https://www.linkedin.com/in/nabil-malki-352a15245/)
+- **LinkedIn:** [nabim-malki](https://www.linkedin.com/in/nabil-malki-352a15245/)
 
 ---
 
