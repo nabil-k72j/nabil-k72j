@@ -27,7 +27,7 @@ My focus is on designing robust backend architectures, scalable APIs, and high-p
   <br/>
   🎯 Key Focus: Backend architecture, APIs, and scalable web systems
   <br/>
-  ✨ Passion: Open Source & clean, performance-oriented code
+  ✨ Passion: clean & performance-oriented code
 </p>
 </details>
 
