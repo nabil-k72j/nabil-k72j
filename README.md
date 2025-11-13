@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Nabil Malki</h1>
-<h3 align="center">💻 Backend Web Developer @ <a href="https://shindevs.com" target="_blank">ShinDevs</a></h3>
+<h3 align="center">Backend Web Developer @ <a href="https://shindevs.com" target="_blank">ShinDevs</a></h3>
 
 <div align="center">
   <a href="https://github.com/nabil-k72j"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -13,26 +13,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Backend Web Developer** from **Morocco**, currently building the web of tomorrow at **[ShinDevs](https://shindevs.com)**.
 
 My focus is on designing robust backend architectures, scalable APIs, and high-performance web systems. My goal is simple: **to make complex things look simple — and make them fast!**
 
 <details>
-<summary>⚡ Quick Facts</summary>
+<summary>Quick Facts</summary>
 <br/>
 <p>
-  🧠 Born: December 12th, 2001
+  Born: December 12th, 2001
   <br/>
-  🎯 Key Focus: Backend architecture, APIs, and scalable web systems
+  Key Focus: Backend architecture, APIs, and scalable web systems
   <br/>
-  ✨ Passion: clean & performance-oriented code
+  Passion: clean & performance-oriented code
 </p>
 </details>
 
 ---
-## 🛠️ My Technology Arsenal
+## My Technology Arsenal
 
 I specialize in building <b>modular</b>, <b>type-safe</b>, and <b>high-performance</b> applications using a modern stack.
 
@@ -47,7 +47,7 @@ I specialize in building <b>modular</b>, <b>type-safe</b>, and <b>high-performan
 
 ---
 
-## ⚙️ Development Philosophy
+## Development Philosophy
 
 * **Architecture First:** Focused on **Domain-Driven Design (DDD)** and an API-first approach for structure.
 * **Performance:** Obsessed with clean, efficient code and **performance-oriented development**.
